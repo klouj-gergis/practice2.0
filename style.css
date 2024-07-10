@@ -119,7 +119,7 @@ h1 {
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   html {
     font-size: 60%;
     box-sizing: border-box;
